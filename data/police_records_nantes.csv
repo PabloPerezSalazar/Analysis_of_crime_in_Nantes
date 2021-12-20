@@ -1,0 +1,964 @@
+,Libellé du delit,Type de crime,Delits enregistres,Annee
+0,Règlements de compte entre malfaireurs,Autres délits,0,2012
+1,Homicides pour voler et à l'occasion de vols,Homicides,0,2012
+2,Homicides pour d'autres motifs,Homicides,1,2012
+3,Tentatives d'homicides pour voler et à l'occasion de vols,Tentatives d'homicide,0,2012
+4,Tentatives homicides pour d'autres motifs,Tentatives d'homicide,9,2012
+5,Coups et blessures volontaires suivis de mort,Homicides,1,2012
+6,Autres coups et blessures volontaires criminels ou correctionnels,Blessures volontaires,1847,2012
+7,Prises d'otages à l'occasion de vols,Prises d'otages,0,2012
+8,Prises d'otages dans un autre but,Prises d'otages,0,2012
+9,Sequestrations,Sequestrations,23,2012
+10,Menaces ou chantages pour extorsion de fonds,Menaces ou chantages,61,2012
+11,Menaces ou chantages dans un autre but,Menaces ou chantages,633,2012
+12,Atteintes à la dignité et à la  personnalité,Harcèlement non sexuel,281,2012
+13,Violations de domicile,Autres délits,54,2012
+14,Vols à main armée contre des établissements financiers,Vols,0,2012
+15,Vols à main armée contre des éts industriels ou commerciaux,Vols,13,2012
+16,Vols à main armée contre des entreprises de transports de fonds,Vols,0,2012
+17,Vols à main armée contre des particuliers à leur domicile,Vols,2,2012
+18,Autres vols à main armée,Vols,5,2012
+19,"Vols avec armes blanches contre des établissements financiers,commerciaux ou industriels",Vols,8,2012
+20,Vols avec armes blanches contre des particuliers à leur domicile,Vols,9,2012
+21,Autres vols avec armes blanches,Vols,137,2012
+22,"Vols violents sans arme contre des établissements financiers,commerciaux ou industriels",Vols,9,2012
+23,Vols violents sans arme contre des particuliers à leur domicile,Vols,12,2012
+24,Vols violents sans arme contre des femmes sur voie publique ou autre lieu public,Vols,159,2012
+25,Vols violents sans arme contre d'autres victimes,Vols,474,2012
+26,Cambriolages de locaux d'habitations principales,Cambriolages,2084,2012
+27,Cambriolages de résidences secondaires,Cambriolages,13,2012
+28,"Cambriolages de  locaux industriels, commerciaux ou financiers",Cambriolages,623,2012
+29,Cambriolages d'autres lieux,Cambriolages,702,2012
+30,Vols avec entrée par ruse en tous lieux,Vols,89,2012
+31,Vols à la tire,Vols,2794,2012
+32,Vols à l'étalage,Vols,1390,2012
+33,Vols de véhicules de transport avec frêt,Vols,2,2012
+34,Vols d'automobiles,Vols,1094,2012
+35,Vols de véhicules motorisés à 2 roues,Vols,1015,2012
+36,Vols à la roulotte,Vols,2805,2012
+37,Vols d''accessoires sur véhicules à moteur immatriculés,Vols,2060,2012
+38,Vols simples sur chantier,Vols,134,2012
+39,Vols simples sur exploitations agricoles,Vols,7,2012
+40,Autres vols simples contre des établissements publics ou privés,Vols,616,2012
+41,Autres vols simples contre des particuliers dans  deslocaux privés,Vols,2057,2012
+42,Autres vols simples contre des particuliers dans des locaux ou lieux publics,Vols,2905,2012
+43,Recels,Autres délits,270,2012
+44,Proxénétisme,Proxénétisme,0,2012
+45,Viols sur des majeur(e)s,Viols,38,2012
+46,Viols sur des mineur(e)s,Viols,32,2012
+47,Harcèlements sexuels et autres agressions sexuelles contre des majeur(e)s,Viols,0,2012
+48,Harcèlements sexuels et autres agressions sexuelles contre des mineur(e)s,Viols,64,2012
+49,Atteintes sexuelles,Viols,128,2012
+50,Homicides commis contre enfants de moins de 15 ans,Homicides,0,2012
+51,"Violences, mauvais traitements et abandons d'enfants.",Délits non sexuels contre les mineurs,192,2012
+52,Délits au sujet de la garde des mineurs,Délits non sexuels contre les mineurs,81,2012
+53,Non versement de pension alimentaire,Délits non sexuels contre les mineurs,33,2012
+54,Trafic et revente sans usage de stupéfiants,Trafic et usage de stupéfiants,22,2012
+55,Usage-revente de stupéfiants,Trafic et usage de stupéfiants,82,2012
+56,Usage de stupéfiants,Trafic et usage de stupéfiants,822,2012
+57,Autres infractions à la législation sur les stupéfiants,Trafic et usage de stupéfiants,13,2012
+58,Délits de débits de boissons et infraction à la règlementation sur l'alcool  et le tabac,Trafic et usage de stupéfiants,6,2012
+59,Fraudes alimentaires et infractions à l'hygiène,Fraudes,2,2012
+60,Autres délits contre santé publique et la réglementation des professions médicales,Autres délits,0,2012
+61,Incendies volontaires de biens publics,Incendies volontaires,60,2012
+62,Incendies volontaires de biens privés,Incendies volontaires,412,2012
+63,Attentats à l'explosif contre des biens publics,Attentats à l'explosif,0,2012
+64,Attentats à l'explosif contre des biens privés,Attentats à l'explosif,0,2012
+65,Autres destructions er dégradations de biens publics,Autres délits,342,2012
+66,Autres destructions er dégradations de biens privés,Autres délits,1881,2012
+67,Destructions et dégradations de véhicules privés,Autres délits,1982,2012
+68,Infractions aux conditions générales d'entrée et de séjour des étrangers,Infractions aux conditions d'entrée des étrangers,399,2012
+69,"Aide à l'entrée, à la circulation et au séjour des étrangers",Infractions aux conditions d'entrée des étrangers,1,2012
+70,Autres infractions à la police des étrangers,Infractions aux conditions d'entrée des étrangers,0,2012
+71,Outrages à dépositaires autorité,Autres délits,198,2012
+72,Violences à dépositaires autorité,Port d'armes,418,2012
+73,Port ou détention armes prohibées,Port d'armes,351,2012
+74,Atteintes aux intérêts fondamentaux de la Nation,Autres délits,0,2012
+75,Délits des courses et des jeux,Autres délits,0,2012
+76,Délits interdiction de séjour et de paraître,Autres délits,0,2012
+77,"Destructions, cruautés et autres délits envers les animaux",Délits envers les animaux,2,2012
+78,Atteintes à l'environnement,Atteintes à l'environnement,5,2012
+79,Chasse et pêche,Atteintes à l'environnement,2,2012
+80,Faux documents d'identité,Fraudes,11,2012
+81,Faux documents concernant la circulation des véhicules,Fraudes,8,2012
+82,Autres faux documents administratifs,Fraudes,13,2012
+83,Faux en écriture publique et authentique,Fraudes,8,2012
+84,Autres faux en écriture,Fraudes,53,2012
+85,Fausse monnaie,Fraudes,1,2012
+86,Contrefaçons et fraudes industrielles et commerciales,Fraudes,3,2012
+87,Contrefaçons littéraires et artistique,Fraudes,2,2012
+88,Falsification et usages de chèques volés,Fraudes,453,2012
+89,Falsification et usages de cartes de crédit,Fraudes,115,2012
+90,Escroqueries et abus de confiance,Autres délits,1113,2012
+91,Infractions à la législation sur les chèques,Fraudes,43,2012
+92,Travail clandestin,Fraudes,30,2012
+93,Emploi d'étranger sans titre de travail,Emploi d'étranger sans titre de travail,0,2012
+94,Marchandage - prêt de main d'oeuvre,Autres délits,0,2012
+95,Index non utilisé,Index non utilisé,0,2012
+96,Index non utilisé,Index non utilisé,0,2012
+97,"Banqueroutes, abus de biens sociaux et autres délits de société",Fraudes,1,2012
+98,Index non utilisé,Index non utilisé,0,2012
+99,Index non utilisé,Index non utilisé,0,2012
+100,"Prix illicittes, publicité fausse et infractions aux règles de la concurrence",Fraudes,0,2012
+101,Achats et ventes sans factures,Fraudes,0,2012
+102,Infractions à l'exercice d'une profession règlementée,Fraudes,1,2012
+103,Infractions au droit de l'urbanisme et de la construction,Infractions au droit de construction,0,2012
+104,Fraudes fiscales,Fraudes,2,2012
+105,Autres délits économiques et financiers,Fraudes,11,2012
+106,Autres délits,Autres délits,875,2012
+0,Règlements de compte entre malfaireurs,Autres délits,0,2013
+1,Homicides pour voler et à l'occasion de vols,Homicides,0,2013
+2,Homicides pour d'autres motifs,Homicides,7,2013
+3,Tentatives d'homicides pour voler et à l'occasion de vols,Tentatives d'homicide,0,2013
+4,Tentatives homicides pour d'autres motifs,Tentatives d'homicide,11,2013
+5,Coups et blessures volontaires suivis de mort,Homicides,0,2013
+6,Autres coups et blessures volontaires criminels ou correctionnels,Blessures volontaires,2097,2013
+7,Prises d'otages à l'occasion de vols,Prises d'otages,0,2013
+8,Prises d'otages dans un autre but,Prises d'otages,0,2013
+9,Sequestrations,Sequestrations,19,2013
+10,Menaces ou chantages pour extorsion de fonds,Menaces ou chantages,48,2013
+11,Menaces ou chantages dans un autre but,Menaces ou chantages,767,2013
+12,Atteintes à la dignité et à la  personnalité,Harcèlement non sexuel,308,2013
+13,Violations de domicile,Autres délits,36,2013
+14,Vols à main armée contre des établissements financiers,Vols,1,2013
+15,Vols à main armée contre des éts industriels ou commerciaux,Vols,21,2013
+16,Vols à main armée contre des entreprises de transports de fonds,Vols,0,2013
+17,Vols à main armée contre des particuliers à leur domicile,Vols,5,2013
+18,Autres vols à main armée,Vols,10,2013
+19,"Vols avec armes blanches contre des établissements financiers,commerciaux ou industriels",Vols,13,2013
+20,Vols avec armes blanches contre des particuliers à leur domicile,Vols,3,2013
+21,Autres vols avec armes blanches,Vols,117,2013
+22,"Vols violents sans arme contre des établissements financiers,commerciaux ou industriels",Vols,7,2013
+23,Vols violents sans arme contre des particuliers à leur domicile,Vols,8,2013
+24,Vols violents sans arme contre des femmes sur voie publique ou autre lieu public,Vols,184,2013
+25,Vols violents sans arme contre d'autres victimes,Vols,410,2013
+26,Cambriolages de locaux d'habitations principales,Cambriolages,1953,2013
+27,Cambriolages de résidences secondaires,Cambriolages,14,2013
+28,"Cambriolages de  locaux industriels, commerciaux ou financiers",Cambriolages,904,2013
+29,Cambriolages d'autres lieux,Cambriolages,999,2013
+30,Vols avec entrée par ruse en tous lieux,Vols,63,2013
+31,Vols à la tire,Vols,3197,2013
+32,Vols à l'étalage,Vols,1161,2013
+33,Vols de véhicules de transport avec frêt,Vols,0,2013
+34,Vols d'automobiles,Vols,1146,2013
+35,Vols de véhicules motorisés à 2 roues,Vols,1159,2013
+36,Vols à la roulotte,Vols,3534,2013
+37,Vols d''accessoires sur véhicules à moteur immatriculés,Vols,2211,2013
+38,Vols simples sur chantier,Vols,177,2013
+39,Vols simples sur exploitations agricoles,Vols,0,2013
+40,Autres vols simples contre des établissements publics ou privés,Vols,932,2013
+41,Autres vols simples contre des particuliers dans  deslocaux privés,Vols,2541,2013
+42,Autres vols simples contre des particuliers dans des locaux ou lieux publics,Vols,42,2013
+43,Recels,Autres délits,7,2013
+44,Proxénétisme,Proxénétisme,5,2013
+45,Viols sur des majeur(e)s,Viols,48,2013
+46,Viols sur des mineur(e)s,Viols,44,2013
+47,Harcèlements sexuels et autres agressions sexuelles contre des majeur(e)s,Viols,101,2013
+48,Harcèlements sexuels et autres agressions sexuelles contre des mineur(e)s,Viols,93,2013
+49,Atteintes sexuelles,Viols,110,2013
+50,Homicides commis contre enfants de moins de 15 ans,Homicides,0,2013
+51,"Violences, mauvais traitements et abandons d'enfants.",Délits non sexuels contre les mineurs,252,2013
+52,Délits au sujet de la garde des mineurs,Délits non sexuels contre les mineurs,139,2013
+53,Non versement de pension alimentaire,Délits non sexuels contre les mineurs,44,2013
+54,Trafic et revente sans usage de stupéfiants,Trafic et usage de stupéfiants,36,2013
+55,Usage-revente de stupéfiants,Trafic et usage de stupéfiants,73,2013
+56,Usage de stupéfiants,Trafic et usage de stupéfiants,762,2013
+57,Autres infractions à la législation sur les stupéfiants,Trafic et usage de stupéfiants,14,2013
+58,Délits de débits de boissons et infraction à la règlementation sur l'alcool  et le tabac,Trafic et usage de stupéfiants,8,2013
+59,Fraudes alimentaires et infractions à l'hygiène,Fraudes,1,2013
+60,Autres délits contre santé publique et la réglementation des professions médicales,Autres délits,0,2013
+61,Incendies volontaires de biens publics,Incendies volontaires,67,2013
+62,Incendies volontaires de biens privés,Incendies volontaires,383,2013
+63,Attentats à l'explosif contre des biens publics,Attentats à l'explosif,0,2013
+64,Attentats à l'explosif contre des biens privés,Attentats à l'explosif,0,2013
+65,Autres destructions er dégradations de biens publics,Autres délits,544,2013
+66,Autres destructions er dégradations de biens privés,Autres délits,2707,2013
+67,Destructions et dégradations de véhicules privés,Autres délits,2269,2013
+68,Infractions aux conditions générales d'entrée et de séjour des étrangers,Infractions aux conditions d'entrée des étrangers,70,2013
+69,"Aide à l'entrée, à la circulation et au séjour des étrangers",Infractions aux conditions d'entrée des étrangers,2,2013
+70,Autres infractions à la police des étrangers,Infractions aux conditions d'entrée des étrangers,127,2013
+71,Outrages à dépositaires autorité,Autres délits,180,2013
+72,Violences à dépositaires autorité,Port d'armes,409,2013
+73,Port ou détention armes prohibées,Port d'armes,308,2013
+74,Atteintes aux intérêts fondamentaux de la Nation,Autres délits,1,2013
+75,Délits des courses et des jeux,Autres délits,0,2013
+76,Délits interdiction de séjour et de paraître,Autres délits,0,2013
+77,"Destructions, cruautés et autres délits envers les animaux",Délits envers les animaux,5,2013
+78,Atteintes à l'environnement,Atteintes à l'environnement,1,2013
+79,Chasse et pêche,Atteintes à l'environnement,0,2013
+80,Faux documents d'identité,Fraudes,25,2013
+81,Faux documents concernant la circulation des véhicules,Fraudes,8,2013
+82,Autres faux documents administratifs,Fraudes,18,2013
+83,Faux en écriture publique et authentique,Fraudes,7,2013
+84,Autres faux en écriture,Fraudes,50,2013
+85,Fausse monnaie,Fraudes,4,2013
+86,Contrefaçons et fraudes industrielles et commerciales,Fraudes,9,2013
+87,Contrefaçons littéraires et artistique,Fraudes,2,2013
+88,Falsification et usages de chèques volés,Fraudes,406,2013
+89,Falsification et usages de cartes de crédit,Fraudes,63,2013
+90,Escroqueries et abus de confiance,Autres délits,1433,2013
+91,Infractions à la législation sur les chèques,Fraudes,30,2013
+92,Travail clandestin,Fraudes,28,2013
+93,Emploi d'étranger sans titre de travail,Emploi d'étranger sans titre de travail,1,2013
+94,Marchandage - prêt de main d'oeuvre,Autres délits,0,2013
+95,Index non utilisé,Index non utilisé,0,2013
+96,Index non utilisé,Index non utilisé,0,2013
+97,"Banqueroutes, abus de biens sociaux et autres délits de société",Fraudes,0,2013
+98,Index non utilisé,Index non utilisé,0,2013
+99,Index non utilisé,Index non utilisé,0,2013
+100,"Prix illicittes, publicité fausse et infractions aux règles de la concurrence",Fraudes,2,2013
+101,Achats et ventes sans factures,Fraudes,0,2013
+102,Infractions à l'exercice d'une profession règlementée,Fraudes,0,2013
+103,Infractions au droit de l'urbanisme et de la construction,Infractions au droit de construction,0,2013
+104,Fraudes fiscales,Fraudes,1,2013
+105,Autres délits économiques et financiers,Fraudes,16,2013
+106,Autres délits,Autres délits,814,2013
+0,Règlements de compte entre malfaireurs,Autres délits,0,2014
+1,Homicides pour voler et à l'occasion de vols,Homicides,0,2014
+2,Homicides pour d'autres motifs,Homicides,4,2014
+3,Tentatives d'homicides pour voler et à l'occasion de vols,Tentatives d'homicide,0,2014
+4,Tentatives homicides pour d'autres motifs,Tentatives d'homicide,8,2014
+5,Coups et blessures volontaires suivis de mort,Homicides,1,2014
+6,Autres coups et blessures volontaires criminels ou correctionnels,Blessures volontaires,1793,2014
+7,Prises d'otages à l'occasion de vols,Prises d'otages,0,2014
+8,Prises d'otages dans un autre but,Prises d'otages,0,2014
+9,Sequestrations,Sequestrations,39,2014
+10,Menaces ou chantages pour extorsion de fonds,Menaces ou chantages,96,2014
+11,Menaces ou chantages dans un autre but,Menaces ou chantages,868,2014
+12,Atteintes à la dignité et à la  personnalité,Harcèlement non sexuel,367,2014
+13,Violations de domicile,Autres délits,82,2014
+14,Vols à main armée contre des établissements financiers,Vols,0,2014
+15,Vols à main armée contre des éts industriels ou commerciaux,Vols,27,2014
+16,Vols à main armée contre des entreprises de transports de fonds,Vols,0,2014
+17,Vols à main armée contre des particuliers à leur domicile,Vols,6,2014
+18,Autres vols à main armée,Vols,9,2014
+19,"Vols avec armes blanches contre des établissements financiers,commerciaux ou industriels",Vols,5,2014
+20,Vols avec armes blanches contre des particuliers à leur domicile,Vols,6,2014
+21,Autres vols avec armes blanches,Vols,99,2014
+22,"Vols violents sans arme contre des établissements financiers,commerciaux ou industriels",Vols,9,2014
+23,Vols violents sans arme contre des particuliers à leur domicile,Vols,11,2014
+24,Vols violents sans arme contre des femmes sur voie publique ou autre lieu public,Vols,293,2014
+25,Vols violents sans arme contre d'autres victimes,Vols,1,2014
+26,Cambriolages de locaux d'habitations principales,Cambriolages,2687,2014
+27,Cambriolages de résidences secondaires,Cambriolages,47,2014
+28,"Cambriolages de  locaux industriels, commerciaux ou financiers",Cambriolages,686,2014
+29,Cambriolages d'autres lieux,Cambriolages,1119,2014
+30,Vols avec entrée par ruse en tous lieux,Vols,66,2014
+31,Vols à la tire,Vols,2203,2014
+32,Vols à l'étalage,Vols,1064,2014
+33,Vols de véhicules de transport avec frêt,Vols,0,2014
+34,Vols d'automobiles,Vols,1023,2014
+35,Vols de véhicules motorisés à 2 roues,Vols,1214,2014
+36,Vols à la roulotte,Vols,4127,2014
+37,Vols d''accessoires sur véhicules à moteur immatriculés,Vols,2079,2014
+38,Vols simples sur chantier,Vols,142,2014
+39,Vols simples sur exploitations agricoles,Vols,4,2014
+40,Autres vols simples contre des établissements publics ou privés,Vols,617,2014
+41,Autres vols simples contre des particuliers dans  deslocaux privés,Vols,0,2014
+42,Autres vols simples contre des particuliers dans des locaux ou lieux publics,Vols,3228,2014
+43,Recels,Autres délits,329,2014
+44,Proxénétisme,Proxénétisme,4,2014
+45,Viols sur des majeur(e)s,Viols,63,2014
+46,Viols sur des mineur(e)s,Viols,47,2014
+47,Harcèlements sexuels et autres agressions sexuelles contre des majeur(e)s,Viols,0,2014
+48,Harcèlements sexuels et autres agressions sexuelles contre des mineur(e)s,Viols,73,2014
+49,Atteintes sexuelles,Viols,94,2014
+50,Homicides commis contre enfants de moins de 15 ans,Homicides,0,2014
+51,"Violences, mauvais traitements et abandons d'enfants.",Délits non sexuels contre les mineurs,265,2014
+52,Délits au sujet de la garde des mineurs,Délits non sexuels contre les mineurs,153,2014
+53,Non versement de pension alimentaire,Délits non sexuels contre les mineurs,47,2014
+54,Trafic et revente sans usage de stupéfiants,Trafic et usage de stupéfiants,32,2014
+55,Usage-revente de stupéfiants,Trafic et usage de stupéfiants,106,2014
+56,Usage de stupéfiants,Trafic et usage de stupéfiants,906,2014
+57,Autres infractions à la législation sur les stupéfiants,Trafic et usage de stupéfiants,4,2014
+58,Délits de débits de boissons et infraction à la règlementation sur l'alcool  et le tabac,Trafic et usage de stupéfiants,9,2014
+59,Fraudes alimentaires et infractions à l'hygiène,Fraudes,1,2014
+60,Autres délits contre santé publique et la réglementation des professions médicales,Autres délits,2,2014
+61,Incendies volontaires de biens publics,Incendies volontaires,71,2014
+62,Incendies volontaires de biens privés,Incendies volontaires,436,2014
+63,Attentats à l'explosif contre des biens publics,Attentats à l'explosif,0,2014
+64,Attentats à l'explosif contre des biens privés,Attentats à l'explosif,0,2014
+65,Autres destructions er dégradations de biens publics,Autres délits,466,2014
+66,Autres destructions er dégradations de biens privés,Autres délits,1510,2014
+67,Destructions et dégradations de véhicules privés,Autres délits,1151,2014
+68,Infractions aux conditions générales d'entrée et de séjour des étrangers,Infractions aux conditions d'entrée des étrangers,38,2014
+69,"Aide à l'entrée, à la circulation et au séjour des étrangers",Infractions aux conditions d'entrée des étrangers,2,2014
+70,Autres infractions à la police des étrangers,Infractions aux conditions d'entrée des étrangers,63,2014
+71,Outrages à dépositaires autorité,Autres délits,181,2014
+72,Violences à dépositaires autorité,Port d'armes,427,2014
+73,Port ou détention armes prohibées,Port d'armes,389,2014
+74,Atteintes aux intérêts fondamentaux de la Nation,Autres délits,0,2014
+75,Délits des courses et des jeux,Autres délits,0,2014
+76,Délits interdiction de séjour et de paraître,Autres délits,3,2014
+77,"Destructions, cruautés et autres délits envers les animaux",Délits envers les animaux,6,2014
+78,Atteintes à l'environnement,Atteintes à l'environnement,1,2014
+79,Chasse et pêche,Atteintes à l'environnement,0,2014
+80,Faux documents d'identité,Fraudes,36,2014
+81,Faux documents concernant la circulation des véhicules,Fraudes,18,2014
+82,Autres faux documents administratifs,Fraudes,22,2014
+83,Faux en écriture publique et authentique,Fraudes,7,2014
+84,Autres faux en écriture,Fraudes,50,2014
+85,Fausse monnaie,Fraudes,2,2014
+86,Contrefaçons et fraudes industrielles et commerciales,Fraudes,2,2014
+87,Contrefaçons littéraires et artistique,Fraudes,1,2014
+88,Falsification et usages de chèques volés,Fraudes,263,2014
+89,Falsification et usages de cartes de crédit,Fraudes,528,2014
+90,Escroqueries et abus de confiance,Autres délits,1463,2014
+91,Infractions à la législation sur les chèques,Fraudes,8,2014
+92,Travail clandestin,Fraudes,13,2014
+93,Emploi d'étranger sans titre de travail,Emploi d'étranger sans titre de travail,0,2014
+94,Marchandage - prêt de main d'oeuvre,Autres délits,0,2014
+95,Index non utilisé,Index non utilisé,0,2014
+96,Index non utilisé,Index non utilisé,0,2014
+97,"Banqueroutes, abus de biens sociaux et autres délits de société",Fraudes,4,2014
+98,Index non utilisé,Index non utilisé,0,2014
+99,Index non utilisé,Index non utilisé,0,2014
+100,"Prix illicittes, publicité fausse et infractions aux règles de la concurrence",Fraudes,1,2014
+101,Achats et ventes sans factures,Fraudes,0,2014
+102,Infractions à l'exercice d'une profession règlementée,Fraudes,2,2014
+103,Infractions au droit de l'urbanisme et de la construction,Infractions au droit de construction,0,2014
+104,Fraudes fiscales,Fraudes,1,2014
+105,Autres délits économiques et financiers,Fraudes,17,2014
+106,Autres délits,Autres délits,896,2014
+0,Règlements de compte entre malfaireurs,Autres délits,0,2015
+1,Homicides pour voler et à l'occasion de vols,Homicides,0,2015
+2,Homicides pour d'autres motifs,Homicides,5,2015
+3,Tentatives d'homicides pour voler et à l'occasion de vols,Tentatives d'homicide,1,2015
+4,Tentatives homicides pour d'autres motifs,Tentatives d'homicide,13,2015
+5,Coups et blessures volontaires suivis de mort,Homicides,4,2015
+6,Autres coups et blessures volontaires criminels ou correctionnels,Blessures volontaires,2172,2015
+7,Prises d'otages à l'occasion de vols,Prises d'otages,0,2015
+8,Prises d'otages dans un autre but,Prises d'otages,1,2015
+9,Sequestrations,Sequestrations,37,2015
+10,Menaces ou chantages pour extorsion de fonds,Menaces ou chantages,197,2015
+11,Menaces ou chantages dans un autre but,Menaces ou chantages,1073,2015
+12,Atteintes à la dignité et à la  personnalité,Harcèlement non sexuel,386,2015
+13,Violations de domicile,Autres délits,116,2015
+14,Vols à main armée contre des établissements financiers,Vols,1,2015
+15,Vols à main armée contre des éts industriels ou commerciaux,Vols,24,2015
+16,Vols à main armée contre des entreprises de transports de fonds,Vols,0,2015
+17,Vols à main armée contre des particuliers à leur domicile,Vols,7,2015
+18,Autres vols à main armée,Vols,13,2015
+19,"Vols avec armes blanches contre des établissements financiers,commerciaux ou industriels",Vols,3,2015
+20,Vols avec armes blanches contre des particuliers à leur domicile,Vols,6,2015
+21,Autres vols avec armes blanches,Vols,74,2015
+22,"Vols violents sans arme contre des établissements financiers,commerciaux ou industriels",Vols,8,2015
+23,Vols violents sans arme contre des particuliers à leur domicile,Vols,18,2015
+24,Vols violents sans arme contre des femmes sur voie publique ou autre lieu public,Vols,173,2015
+25,Vols violents sans arme contre d'autres victimes,Vols,426,2015
+26,Cambriolages de locaux d'habitations principales,Cambriolages,2792,2015
+27,Cambriolages de résidences secondaires,Cambriolages,54,2015
+28,"Cambriolages de  locaux industriels, commerciaux ou financiers",Cambriolages,835,2015
+29,Cambriolages d'autres lieux,Cambriolages,1239,2015
+30,Vols avec entrée par ruse en tous lieux,Vols,89,2015
+31,Vols à la tire,Vols,2298,2015
+32,Vols à l'étalage,Vols,1048,2015
+33,Vols de véhicules de transport avec frêt,Vols,0,2015
+34,Vols d'automobiles,Vols,1249,2015
+35,Vols de véhicules motorisés à 2 roues,Vols,1133,2015
+36,Vols à la roulotte,Vols,3827,2015
+37,Vols d''accessoires sur véhicules à moteur immatriculés,Vols,1843,2015
+38,Vols simples sur chantier,Vols,120,2015
+39,Vols simples sur exploitations agricoles,Vols,0,2015
+40,Autres vols simples contre des établissements publics ou privés,Vols,610,2015
+41,Autres vols simples contre des particuliers dans  deslocaux privés,Vols,2496,2015
+42,Autres vols simples contre des particuliers dans des locaux ou lieux publics,Vols,3576,2015
+43,Recels,Autres délits,397,2015
+44,Proxénétisme,Proxénétisme,4,2015
+45,Viols sur des majeur(e)s,Viols,91,2015
+46,Viols sur des mineur(e)s,Viols,61,2015
+47,Harcèlements sexuels et autres agressions sexuelles contre des majeur(e)s,Viols,93,2015
+48,Harcèlements sexuels et autres agressions sexuelles contre des mineur(e)s,Viols,93,2015
+49,Atteintes sexuelles,Viols,115,2015
+50,Homicides commis contre enfants de moins de 15 ans,Homicides,0,2015
+51,"Violences, mauvais traitements et abandons d'enfants.",Délits non sexuels contre les mineurs,350,2015
+52,Délits au sujet de la garde des mineurs,Délits non sexuels contre les mineurs,102,2015
+53,Non versement de pension alimentaire,Délits non sexuels contre les mineurs,51,2015
+54,Trafic et revente sans usage de stupéfiants,Trafic et usage de stupéfiants,45,2015
+55,Usage-revente de stupéfiants,Trafic et usage de stupéfiants,145,2015
+56,Usage de stupéfiants,Trafic et usage de stupéfiants,1003,2015
+57,Autres infractions à la législation sur les stupéfiants,Trafic et usage de stupéfiants,7,2015
+58,Délits de débits de boissons et infraction à la règlementation sur l'alcool  et le tabac,Trafic et usage de stupéfiants,3,2015
+59,Fraudes alimentaires et infractions à l'hygiène,Fraudes,0,2015
+60,Autres délits contre santé publique et la réglementation des professions médicales,Autres délits,1,2015
+61,Incendies volontaires de biens publics,Incendies volontaires,85,2015
+62,Incendies volontaires de biens privés,Incendies volontaires,465,2015
+63,Attentats à l'explosif contre des biens publics,Attentats à l'explosif,0,2015
+64,Attentats à l'explosif contre des biens privés,Attentats à l'explosif,3,2015
+65,Autres destructions er dégradations de biens publics,Autres délits,518,2015
+66,Autres destructions er dégradations de biens privés,Autres délits,1142,2015
+67,Destructions et dégradations de véhicules privés,Autres délits,1068,2015
+68,Infractions aux conditions générales d'entrée et de séjour des étrangers,Infractions aux conditions d'entrée des étrangers,75,2015
+69,"Aide à l'entrée, à la circulation et au séjour des étrangers",Infractions aux conditions d'entrée des étrangers,3,2015
+70,Autres infractions à la police des étrangers,Infractions aux conditions d'entrée des étrangers,40,2015
+71,Outrages à dépositaires autorité,Autres délits,221,2015
+72,Violences à dépositaires autorité,Port d'armes,408,2015
+73,Port ou détention armes prohibées,Port d'armes,319,2015
+74,Atteintes aux intérêts fondamentaux de la Nation,Autres délits,1,2015
+75,Délits des courses et des jeux,Autres délits,0,2015
+76,Délits interdiction de séjour et de paraître,Autres délits,5,2015
+77,"Destructions, cruautés et autres délits envers les animaux",Délits envers les animaux,11,2015
+78,Atteintes à l'environnement,Atteintes à l'environnement,8,2015
+79,Chasse et pêche,Atteintes à l'environnement,1,2015
+80,Faux documents d'identité,Fraudes,41,2015
+81,Faux documents concernant la circulation des véhicules,Fraudes,27,2015
+82,Autres faux documents administratifs,Fraudes,22,2015
+83,Faux en écriture publique et authentique,Fraudes,4,2015
+84,Autres faux en écriture,Fraudes,35,2015
+85,Fausse monnaie,Fraudes,22,2015
+86,Contrefaçons et fraudes industrielles et commerciales,Fraudes,2,2015
+87,Contrefaçons littéraires et artistique,Fraudes,0,2015
+88,Falsification et usages de chèques volés,Fraudes,318,2015
+89,Falsification et usages de cartes de crédit,Fraudes,759,2015
+90,Escroqueries et abus de confiance,Autres délits,1710,2015
+91,Infractions à la législation sur les chèques,Fraudes,10,2015
+92,Travail clandestin,Fraudes,8,2015
+93,Emploi d'étranger sans titre de travail,Emploi d'étranger sans titre de travail,0,2015
+94,Marchandage - prêt de main d'oeuvre,Autres délits,0,2015
+95,Index non utilisé,Index non utilisé,0,2015
+96,Index non utilisé,Index non utilisé,0,2015
+97,"Banqueroutes, abus de biens sociaux et autres délits de société",Fraudes,3,2015
+98,Index non utilisé,Index non utilisé,0,2015
+99,Index non utilisé,Index non utilisé,0,2015
+100,"Prix illicittes, publicité fausse et infractions aux règles de la concurrence",Fraudes,4,2015
+101,Achats et ventes sans factures,Fraudes,0,2015
+102,Infractions à l'exercice d'une profession règlementée,Fraudes,5,2015
+103,Infractions au droit de l'urbanisme et de la construction,Infractions au droit de construction,3,2015
+104,Fraudes fiscales,Fraudes,0,2015
+105,Autres délits économiques et financiers,Fraudes,10,2015
+106,Autres délits,Autres délits,1187,2015
+0,Règlements de compte entre malfaireurs,Autres délits,0,2016
+1,Homicides pour voler et à l'occasion de vols,Homicides,0,2016
+2,Homicides pour d'autres motifs,Homicides,6,2016
+3,Tentatives d'homicides pour voler et à l'occasion de vols,Tentatives d'homicide,0,2016
+4,Tentatives homicides pour d'autres motifs,Tentatives d'homicide,7,2016
+5,Coups et blessures volontaires suivis de mort,Homicides,0,2016
+6,Autres coups et blessures volontaires criminels ou correctionnels,Blessures volontaires,2124,2016
+7,Prises d'otages à l'occasion de vols,Prises d'otages,0,2016
+8,Prises d'otages dans un autre but,Prises d'otages,0,2016
+9,Sequestrations,Sequestrations,42,2016
+10,Menaces ou chantages pour extorsion de fonds,Menaces ou chantages,154,2016
+11,Menaces ou chantages dans un autre but,Menaces ou chantages,926,2016
+12,Atteintes à la dignité et à la  personnalité,Harcèlement non sexuel,372,2016
+13,Violations de domicile,Autres délits,124,2016
+14,Vols à main armée contre des établissements financiers,Vols,0,2016
+15,Vols à main armée contre des éts industriels ou commerciaux,Vols,12,2016
+16,Vols à main armée contre des entreprises de transports de fonds,Vols,0,2016
+17,Vols à main armée contre des particuliers à leur domicile,Vols,7,2016
+18,Autres vols à main armée,Vols,20,2016
+19,"Vols avec armes blanches contre des établissements financiers,commerciaux ou industriels",Vols,7,2016
+20,Vols avec armes blanches contre des particuliers à leur domicile,Vols,2,2016
+21,Autres vols avec armes blanches,Vols,100,2016
+22,"Vols violents sans arme contre des établissements financiers,commerciaux ou industriels",Vols,8,2016
+23,Vols violents sans arme contre des particuliers à leur domicile,Vols,17,2016
+24,Vols violents sans arme contre des femmes sur voie publique ou autre lieu public,Vols,178,2016
+25,Vols violents sans arme contre d'autres victimes,Vols,498,2016
+26,Cambriolages de locaux d'habitations principales,Cambriolages,2885,2016
+27,Cambriolages de résidences secondaires,Cambriolages,76,2016
+28,"Cambriolages de  locaux industriels, commerciaux ou financiers",Cambriolages,859,2016
+29,Cambriolages d'autres lieux,Cambriolages,1065,2016
+30,Vols avec entrée par ruse en tous lieux,Vols,75,2016
+31,Vols à la tire,Vols,3036,2016
+32,Vols à l'étalage,Vols,970,2016
+33,Vols de véhicules de transport avec frêt,Vols,0,2016
+34,Vols d'automobiles,Vols,1021,2016
+35,Vols de véhicules motorisés à 2 roues,Vols,1044,2016
+36,Vols à la roulotte,Vols,5227,2016
+37,Vols d''accessoires sur véhicules à moteur immatriculés,Vols,2005,2016
+38,Vols simples sur chantier,Vols,145,2016
+39,Vols simples sur exploitations agricoles,Vols,2,2016
+40,Autres vols simples contre des établissements publics ou privés,Vols,1,2016
+41,Autres vols simples contre des particuliers dans  deslocaux privés,Vols,2490,2016
+42,Autres vols simples contre des particuliers dans des locaux ou lieux publics,Vols,3651,2016
+43,Recels,Autres délits,394,2016
+44,Proxénétisme,Proxénétisme,12,2016
+45,Viols sur des majeur(e)s,Viols,82,2016
+46,Viols sur des mineur(e)s,Viols,62,2016
+47,Harcèlements sexuels et autres agressions sexuelles contre des majeur(e)s,Viols,0,2016
+48,Harcèlements sexuels et autres agressions sexuelles contre des mineur(e)s,Viols,92,2016
+49,Atteintes sexuelles,Viols,112,2016
+50,Homicides commis contre enfants de moins de 15 ans,Homicides,0,2016
+51,"Violences, mauvais traitements et abandons d'enfants.",Délits non sexuels contre les mineurs,382,2016
+52,Délits au sujet de la garde des mineurs,Délits non sexuels contre les mineurs,147,2016
+53,Non versement de pension alimentaire,Délits non sexuels contre les mineurs,55,2016
+54,Trafic et revente sans usage de stupéfiants,Trafic et usage de stupéfiants,39,2016
+55,Usage-revente de stupéfiants,Trafic et usage de stupéfiants,125,2016
+56,Usage de stupéfiants,Trafic et usage de stupéfiants,894,2016
+57,Autres infractions à la législation sur les stupéfiants,Trafic et usage de stupéfiants,4,2016
+58,Délits de débits de boissons et infraction à la règlementation sur l'alcool  et le tabac,Trafic et usage de stupéfiants,4,2016
+59,Fraudes alimentaires et infractions à l'hygiène,Fraudes,0,2016
+60,Autres délits contre santé publique et la réglementation des professions médicales,Autres délits,0,2016
+61,Incendies volontaires de biens publics,Incendies volontaires,65,2016
+62,Incendies volontaires de biens privés,Incendies volontaires,377,2016
+63,Attentats à l'explosif contre des biens publics,Attentats à l'explosif,0,2016
+64,Attentats à l'explosif contre des biens privés,Attentats à l'explosif,1,2016
+65,Autres destructions er dégradations de biens publics,Autres délits,568,2016
+66,Autres destructions er dégradations de biens privés,Autres délits,1264,2016
+67,Destructions et dégradations de véhicules privés,Autres délits,1111,2016
+68,Infractions aux conditions générales d'entrée et de séjour des étrangers,Infractions aux conditions d'entrée des étrangers,60,2016
+69,"Aide à l'entrée, à la circulation et au séjour des étrangers",Infractions aux conditions d'entrée des étrangers,3,2016
+70,Autres infractions à la police des étrangers,Infractions aux conditions d'entrée des étrangers,40,2016
+71,Outrages à dépositaires autorité,Autres délits,248,2016
+72,Violences à dépositaires autorité,Port d'armes,404,2016
+73,Port ou détention armes prohibées,Port d'armes,315,2016
+74,Atteintes aux intérêts fondamentaux de la Nation,Autres délits,2,2016
+75,Délits des courses et des jeux,Autres délits,0,2016
+76,Délits interdiction de séjour et de paraître,Autres délits,7,2016
+77,"Destructions, cruautés et autres délits envers les animaux",Délits envers les animaux,10,2016
+78,Atteintes à l'environnement,Atteintes à l'environnement,7,2016
+79,Chasse et pêche,Atteintes à l'environnement,4,2016
+80,Faux documents d'identité,Fraudes,27,2016
+81,Faux documents concernant la circulation des véhicules,Fraudes,26,2016
+82,Autres faux documents administratifs,Fraudes,6,2016
+83,Faux en écriture publique et authentique,Fraudes,1,2016
+84,Autres faux en écriture,Fraudes,24,2016
+85,Fausse monnaie,Fraudes,12,2016
+86,Contrefaçons et fraudes industrielles et commerciales,Fraudes,0,2016
+87,Contrefaçons littéraires et artistique,Fraudes,0,2016
+88,Falsification et usages de chèques volés,Fraudes,359,2016
+89,Falsification et usages de cartes de crédit,Fraudes,1054,2016
+90,Escroqueries et abus de confiance,Autres délits,1740,2016
+91,Infractions à la législation sur les chèques,Fraudes,10,2016
+92,Travail clandestin,Fraudes,9,2016
+93,Emploi d'étranger sans titre de travail,Emploi d'étranger sans titre de travail,0,2016
+94,Marchandage - prêt de main d'oeuvre,Autres délits,0,2016
+95,Index non utilisé,Index non utilisé,0,2016
+96,Index non utilisé,Index non utilisé,0,2016
+97,"Banqueroutes, abus de biens sociaux et autres délits de société",Fraudes,1,2016
+98,Index non utilisé,Index non utilisé,0,2016
+99,Index non utilisé,Index non utilisé,0,2016
+100,"Prix illicittes, publicité fausse et infractions aux règles de la concurrence",Fraudes,0,2016
+101,Achats et ventes sans factures,Fraudes,0,2016
+102,Infractions à l'exercice d'une profession règlementée,Fraudes,17,2016
+103,Infractions au droit de l'urbanisme et de la construction,Infractions au droit de construction,1,2016
+104,Fraudes fiscales,Fraudes,3,2016
+105,Autres délits économiques et financiers,Fraudes,16,2016
+106,Autres délits,Autres délits,1379,2016
+0,Règlements de compte entre malfaireurs,Autres délits,0,2017
+1,Homicides pour voler et à l'occasion de vols,Homicides,0,2017
+2,Homicides pour d'autres motifs,Homicides,4,2017
+3,Tentatives d'homicides pour voler et à l'occasion de vols,Tentatives d'homicide,1,2017
+4,Tentatives homicides pour d'autres motifs,Tentatives d'homicide,11,2017
+5,Coups et blessures volontaires suivis de mort,Homicides,0,2017
+6,Autres coups et blessures volontaires criminels ou correctionnels,Blessures volontaires,2303,2017
+7,Prises d'otages à l'occasion de vols,Prises d'otages,0,2017
+8,Prises d'otages dans un autre but,Prises d'otages,0,2017
+9,Sequestrations,Sequestrations,45,2017
+10,Menaces ou chantages pour extorsion de fonds,Menaces ou chantages,135,2017
+11,Menaces ou chantages dans un autre but,Menaces ou chantages,869,2017
+12,Atteintes à la dignité et à la  personnalité,Harcèlement non sexuel,355,2017
+13,Violations de domicile,Autres délits,143,2017
+14,Vols à main armée contre des établissements financiers,Vols,1,2017
+15,Vols à main armée contre des éts industriels ou commerciaux,Vols,8,2017
+16,Vols à main armée contre des entreprises de transports de fonds,Vols,0,2017
+17,Vols à main armée contre des particuliers à leur domicile,Vols,3,2017
+18,Autres vols à main armée,Vols,19,2017
+19,"Vols avec armes blanches contre des établissements financiers,commerciaux ou industriels",Vols,8,2017
+20,Vols avec armes blanches contre des particuliers à leur domicile,Vols,8,2017
+21,Autres vols avec armes blanches,Vols,108,2017
+22,"Vols violents sans arme contre des établissements financiers,commerciaux ou industriels",Vols,6,2017
+23,Vols violents sans arme contre des particuliers à leur domicile,Vols,18,2017
+24,Vols violents sans arme contre des femmes sur voie publique ou autre lieu public,Vols,294,2017
+25,Vols violents sans arme contre d'autres victimes,Vols,552,2017
+26,Cambriolages de locaux d'habitations principales,Cambriolages,2783,2017
+27,Cambriolages de résidences secondaires,Cambriolages,76,2017
+28,"Cambriolages de  locaux industriels, commerciaux ou financiers",Cambriolages,734,2017
+29,Cambriolages d'autres lieux,Cambriolages,1013,2017
+30,Vols avec entrée par ruse en tous lieux,Vols,50,2017
+31,Vols à la tire,Vols,3257,2017
+32,Vols à l'étalage,Vols,1032,2017
+33,Vols de véhicules de transport avec frêt,Vols,0,2017
+34,Vols d'automobiles,Vols,996,2017
+35,Vols de véhicules motorisés à 2 roues,Vols,1126,2017
+36,Vols à la roulotte,Vols,6606,2017
+37,Vols d''accessoires sur véhicules à moteur immatriculés,Vols,1581,2017
+38,Vols simples sur chantier,Vols,130,2017
+39,Vols simples sur exploitations agricoles,Vols,6,2017
+40,Autres vols simples contre des établissements publics ou privés,Vols,476,2017
+41,Autres vols simples contre des particuliers dans  deslocaux privés,Vols,2667,2017
+42,Autres vols simples contre des particuliers dans des locaux ou lieux publics,Vols,3820,2017
+43,Recels,Autres délits,387,2017
+44,Proxénétisme,Proxénétisme,8,2017
+45,Viols sur des majeur(e)s,Viols,121,2017
+46,Viols sur des mineur(e)s,Viols,57,2017
+47,Harcèlements sexuels et autres agressions sexuelles contre des majeur(e)s,Viols,139,2017
+48,Harcèlements sexuels et autres agressions sexuelles contre des mineur(e)s,Viols,111,2017
+49,Atteintes sexuelles,Viols,102,2017
+50,Homicides commis contre enfants de moins de 15 ans,Homicides,1,2017
+51,"Violences, mauvais traitements et abandons d'enfants.",Délits non sexuels contre les mineurs,380,2017
+52,Délits au sujet de la garde des mineurs,Délits non sexuels contre les mineurs,130,2017
+53,Non versement de pension alimentaire,Délits non sexuels contre les mineurs,43,2017
+54,Trafic et revente sans usage de stupéfiants,Trafic et usage de stupéfiants,47,2017
+55,Usage-revente de stupéfiants,Trafic et usage de stupéfiants,172,2017
+56,Usage de stupéfiants,Trafic et usage de stupéfiants,1072,2017
+57,Autres infractions à la législation sur les stupéfiants,Trafic et usage de stupéfiants,5,2017
+58,Délits de débits de boissons et infraction à la règlementation sur l'alcool  et le tabac,Trafic et usage de stupéfiants,0,2017
+59,Fraudes alimentaires et infractions à l'hygiène,Fraudes,2,2017
+60,Autres délits contre santé publique et la réglementation des professions médicales,Autres délits,0,2017
+61,Incendies volontaires de biens publics,Incendies volontaires,80,2017
+62,Incendies volontaires de biens privés,Incendies volontaires,373,2017
+63,Attentats à l'explosif contre des biens publics,Attentats à l'explosif,0,2017
+64,Attentats à l'explosif contre des biens privés,Attentats à l'explosif,0,2017
+65,Autres destructions er dégradations de biens publics,Autres délits,489,2017
+66,Autres destructions er dégradations de biens privés,Autres délits,1281,2017
+67,Destructions et dégradations de véhicules privés,Autres délits,1111,2017
+68,Infractions aux conditions générales d'entrée et de séjour des étrangers,Infractions aux conditions d'entrée des étrangers,65,2017
+69,"Aide à l'entrée, à la circulation et au séjour des étrangers",Infractions aux conditions d'entrée des étrangers,4,2017
+70,Autres infractions à la police des étrangers,Infractions aux conditions d'entrée des étrangers,52,2017
+71,Outrages à dépositaires autorité,Autres délits,224,2017
+72,Violences à dépositaires autorité,Port d'armes,336,2017
+73,Port ou détention armes prohibées,Port d'armes,379,2017
+74,Atteintes aux intérêts fondamentaux de la Nation,Autres délits,0,2017
+75,Délits des courses et des jeux,Autres délits,0,2017
+76,Délits interdiction de séjour et de paraître,Autres délits,12,2017
+77,"Destructions, cruautés et autres délits envers les animaux",Délits envers les animaux,17,2017
+78,Atteintes à l'environnement,Atteintes à l'environnement,4,2017
+79,Chasse et pêche,Atteintes à l'environnement,2,2017
+80,Faux documents d'identité,Fraudes,25,2017
+81,Faux documents concernant la circulation des véhicules,Fraudes,23,2017
+82,Autres faux documents administratifs,Fraudes,9,2017
+83,Faux en écriture publique et authentique,Fraudes,1,2017
+84,Autres faux en écriture,Fraudes,32,2017
+85,Fausse monnaie,Fraudes,11,2017
+86,Contrefaçons et fraudes industrielles et commerciales,Fraudes,15,2017
+87,Contrefaçons littéraires et artistique,Fraudes,1,2017
+88,Falsification et usages de chèques volés,Fraudes,539,2017
+89,Falsification et usages de cartes de crédit,Fraudes,1214,2017
+90,Escroqueries et abus de confiance,Autres délits,1621,2017
+91,Infractions à la législation sur les chèques,Fraudes,9,2017
+92,Travail clandestin,Fraudes,11,2017
+93,Emploi d'étranger sans titre de travail,Emploi d'étranger sans titre de travail,0,2017
+94,Marchandage - prêt de main d'oeuvre,Autres délits,0,2017
+95,Index non utilisé,Index non utilisé,0,2017
+96,Index non utilisé,Index non utilisé,0,2017
+97,"Banqueroutes, abus de biens sociaux et autres délits de société",Fraudes,5,2017
+98,Index non utilisé,Index non utilisé,0,2017
+99,Index non utilisé,Index non utilisé,0,2017
+100,"Prix illicittes, publicité fausse et infractions aux règles de la concurrence",Fraudes,1,2017
+101,Achats et ventes sans factures,Fraudes,0,2017
+102,Infractions à l'exercice d'une profession règlementée,Fraudes,35,2017
+103,Infractions au droit de l'urbanisme et de la construction,Infractions au droit de construction,3,2017
+104,Fraudes fiscales,Fraudes,1,2017
+105,Autres délits économiques et financiers,Fraudes,14,2017
+106,Autres délits,Autres délits,1056,2017
+0,Règlements de compte entre malfaireurs,Autres délits,0,2018
+1,Homicides pour voler et à l'occasion de vols,Homicides,0,2018
+2,Homicides pour d'autres motifs,Homicides,4,2018
+3,Tentatives d'homicides pour voler et à l'occasion de vols,Tentatives d'homicide,1,2018
+4,Tentatives homicides pour d'autres motifs,Tentatives d'homicide,12,2018
+5,Coups et blessures volontaires suivis de mort,Homicides,1,2018
+6,Autres coups et blessures volontaires criminels ou correctionnels,Blessures volontaires,2449,2018
+7,Prises d'otages à l'occasion de vols,Prises d'otages,1,2018
+8,Prises d'otages dans un autre but,Prises d'otages,0,2018
+9,Sequestrations,Sequestrations,37,2018
+10,Menaces ou chantages pour extorsion de fonds,Menaces ou chantages,162,2018
+11,Menaces ou chantages dans un autre but,Menaces ou chantages,933,2018
+12,Atteintes à la dignité et à la  personnalité,Harcèlement non sexuel,351,2018
+13,Violations de domicile,Autres délits,183,2018
+14,Vols à main armée contre des établissements financiers,Vols,0,2018
+15,Vols à main armée contre des éts industriels ou commerciaux,Vols,6,2018
+16,Vols à main armée contre des entreprises de transports de fonds,Vols,1,2018
+17,Vols à main armée contre des particuliers à leur domicile,Vols,5,2018
+18,Autres vols à main armée,Vols,12,2018
+19,"Vols avec armes blanches contre des établissements financiers,commerciaux ou industriels",Vols,2,2018
+20,Vols avec armes blanches contre des particuliers à leur domicile,Vols,7,2018
+21,Autres vols avec armes blanches,Vols,109,2018
+22,"Vols violents sans arme contre des établissements financiers,commerciaux ou industriels",Vols,7,2018
+23,Vols violents sans arme contre des particuliers à leur domicile,Vols,18,2018
+24,Vols violents sans arme contre des femmes sur voie publique ou autre lieu public,Vols,276,2018
+25,Vols violents sans arme contre d'autres victimes,Vols,608,2018
+26,Cambriolages de locaux d'habitations principales,Cambriolages,2863,2018
+27,Cambriolages de résidences secondaires,Cambriolages,88,2018
+28,"Cambriolages de  locaux industriels, commerciaux ou financiers",Cambriolages,1100,2018
+29,Cambriolages d'autres lieux,Cambriolages,869,2018
+30,Vols avec entrée par ruse en tous lieux,Vols,69,2018
+31,Vols à la tire,Vols,2972,2018
+32,Vols à l'étalage,Vols,979,2018
+33,Vols de véhicules de transport avec frêt,Vols,1,2018
+34,Vols d'automobiles,Vols,972,2018
+35,Vols de véhicules motorisés à 2 roues,Vols,976,2018
+36,Vols à la roulotte,Vols,7115,2018
+37,Vols d''accessoires sur véhicules à moteur immatriculés,Vols,1595,2018
+38,Vols simples sur chantier,Vols,163,2018
+39,Vols simples sur exploitations agricoles,Vols,0,2018
+40,Autres vols simples contre des établissements publics ou privés,Vols,497,2018
+41,Autres vols simples contre des particuliers dans  deslocaux privés,Vols,2814,2018
+42,Autres vols simples contre des particuliers dans des locaux ou lieux publics,Vols,3854,2018
+43,Recels,Autres délits,465,2018
+44,Proxénétisme,Proxénétisme,4,2018
+45,Viols sur des majeur(e)s,Viols,103,2018
+46,Viols sur des mineur(e)s,Viols,57,2018
+47,Harcèlements sexuels et autres agressions sexuelles contre des majeur(e)s,Viols,158,2018
+48,Harcèlements sexuels et autres agressions sexuelles contre des mineur(e)s,Viols,147,2018
+49,Atteintes sexuelles,Viols,134,2018
+50,Homicides commis contre enfants de moins de 15 ans,Homicides,0,2018
+51,"Violences, mauvais traitements et abandons d'enfants.",Délits non sexuels contre les mineurs,367,2018
+52,Délits au sujet de la garde des mineurs,Délits non sexuels contre les mineurs,130,2018
+53,Non versement de pension alimentaire,Délits non sexuels contre les mineurs,35,2018
+54,Trafic et revente sans usage de stupéfiants,Trafic et usage de stupéfiants,53,2018
+55,Usage-revente de stupéfiants,Trafic et usage de stupéfiants,155,2018
+56,Usage de stupéfiants,Trafic et usage de stupéfiants,876,2018
+57,Autres infractions à la législation sur les stupéfiants,Trafic et usage de stupéfiants,2,2018
+58,Délits de débits de boissons et infraction à la règlementation sur l'alcool  et le tabac,Trafic et usage de stupéfiants,1,2018
+59,Fraudes alimentaires et infractions à l'hygiène,Fraudes,1,2018
+60,Autres délits contre santé publique et la réglementation des professions médicales,Autres délits,0,2018
+61,Incendies volontaires de biens publics,Incendies volontaires,103,2018
+62,Incendies volontaires de biens privés,Incendies volontaires,635,2018
+63,Attentats à l'explosif contre des biens publics,Attentats à l'explosif,1,2018
+64,Attentats à l'explosif contre des biens privés,Attentats à l'explosif,2,2018
+65,Autres destructions er dégradations de biens publics,Autres délits,448,2018
+66,Autres destructions er dégradations de biens privés,Autres délits,1318,2018
+67,Destructions et dégradations de véhicules privés,Autres délits,1220,2018
+68,Infractions aux conditions générales d'entrée et de séjour des étrangers,Infractions aux conditions d'entrée des étrangers,33,2018
+69,"Aide à l'entrée, à la circulation et au séjour des étrangers",Infractions aux conditions d'entrée des étrangers,2,2018
+70,Autres infractions à la police des étrangers,Infractions aux conditions d'entrée des étrangers,35,2018
+71,Outrages à dépositaires autorité,Autres délits,257,2018
+72,Violences à dépositaires autorité,Port d'armes,440,2018
+73,Port ou détention armes prohibées,Port d'armes,328,2018
+74,Atteintes aux intérêts fondamentaux de la Nation,Autres délits,1,2018
+75,Délits des courses et des jeux,Autres délits,0,2018
+76,Délits interdiction de séjour et de paraître,Autres délits,13,2018
+77,"Destructions, cruautés et autres délits envers les animaux",Délits envers les animaux,11,2018
+78,Atteintes à l'environnement,Atteintes à l'environnement,3,2018
+79,Chasse et pêche,Atteintes à l'environnement,1,2018
+80,Faux documents d'identité,Fraudes,43,2018
+81,Faux documents concernant la circulation des véhicules,Fraudes,23,2018
+82,Autres faux documents administratifs,Fraudes,21,2018
+83,Faux en écriture publique et authentique,Fraudes,3,2018
+84,Autres faux en écriture,Fraudes,32,2018
+85,Fausse monnaie,Fraudes,2,2018
+86,Contrefaçons et fraudes industrielles et commerciales,Fraudes,4,2018
+87,Contrefaçons littéraires et artistique,Fraudes,0,2018
+88,Falsification et usages de chèques volés,Fraudes,216,2018
+89,Falsification et usages de cartes de crédit,Fraudes,1030,2018
+90,Escroqueries et abus de confiance,Autres délits,1501,2018
+91,Infractions à la législation sur les chèques,Fraudes,5,2018
+92,Travail clandestin,Fraudes,12,2018
+93,Emploi d'étranger sans titre de travail,Emploi d'étranger sans titre de travail,1,2018
+94,Marchandage - prêt de main d'oeuvre,Autres délits,0,2018
+95,Index non utilisé,Index non utilisé,0,2018
+96,Index non utilisé,Index non utilisé,0,2018
+97,"Banqueroutes, abus de biens sociaux et autres délits de société",Fraudes,9,2018
+98,Index non utilisé,Index non utilisé,0,2018
+99,Index non utilisé,Index non utilisé,0,2018
+100,"Prix illicittes, publicité fausse et infractions aux règles de la concurrence",Fraudes,1,2018
+101,Achats et ventes sans factures,Fraudes,1,2018
+102,Infractions à l'exercice d'une profession règlementée,Fraudes,14,2018
+103,Infractions au droit de l'urbanisme et de la construction,Infractions au droit de construction,4,2018
+104,Fraudes fiscales,Fraudes,0,2018
+105,Autres délits économiques et financiers,Fraudes,8,2018
+106,Autres délits,Autres délits,1036,2018
+0,Règlements de compte entre malfaireurs,Autres délits,1,2019
+1,Homicides pour voler et à l'occasion de vols,Homicides,0,2019
+2,Homicides pour d'autres motifs,Homicides,3,2019
+3,Tentatives d'homicides pour voler et à l'occasion de vols,Tentatives d'homicide,0,2019
+4,Tentatives homicides pour d'autres motifs,Tentatives d'homicide,30,2019
+5,Coups et blessures volontaires suivis de mort,Homicides,0,2019
+6,Autres coups et blessures volontaires criminels ou correctionnels,Blessures volontaires,2469,2019
+7,Prises d'otages à l'occasion de vols,Prises d'otages,0,2019
+8,Prises d'otages dans un autre but,Prises d'otages,3,2019
+9,Sequestrations,Sequestrations,32,2019
+10,Menaces ou chantages pour extorsion de fonds,Menaces ou chantages,179,2019
+11,Menaces ou chantages dans un autre but,Menaces ou chantages,1006,2019
+12,Atteintes à la dignité et à la  personnalité,Harcèlement non sexuel,373,2019
+13,Violations de domicile,Autres délits,159,2019
+14,Vols à main armée contre des établissements financiers,Vols,0,2019
+15,Vols à main armée contre des éts industriels ou commerciaux,Vols,7,2019
+16,Vols à main armée contre des entreprises de transports de fonds,Vols,0,2019
+17,Vols à main armée contre des particuliers à leur domicile,Vols,1,2019
+18,Autres vols à main armée,Vols,18,2019
+19,"Vols avec armes blanches contre des établissements financiers,commerciaux ou industriels",Vols,7,2019
+20,Vols avec armes blanches contre des particuliers à leur domicile,Vols,8,2019
+21,Autres vols avec armes blanches,Vols,112,2019
+22,"Vols violents sans arme contre des établissements financiers,commerciaux ou industriels",Vols,11,2019
+23,Vols violents sans arme contre des particuliers à leur domicile,Vols,17,2019
+24,Vols violents sans arme contre des femmes sur voie publique ou autre lieu public,Vols,322,2019
+25,Vols violents sans arme contre d'autres victimes,Vols,845,2019
+26,Cambriolages de locaux d'habitations principales,Cambriolages,2974,2019
+27,Cambriolages de résidences secondaires,Cambriolages,79,2019
+28,"Cambriolages de  locaux industriels, commerciaux ou financiers",Cambriolages,1206,2019
+29,Cambriolages d'autres lieux,Cambriolages,880,2019
+30,Vols avec entrée par ruse en tous lieux,Vols,105,2019
+31,Vols à la tire,Vols,3406,2019
+32,Vols à l'étalage,Vols,888,2019
+33,Vols de véhicules de transport avec frêt,Vols,1,2019
+34,Vols d'automobiles,Vols,957,2019
+35,Vols de véhicules motorisés à 2 roues,Vols,1230,2019
+36,Vols à la roulotte,Vols,6417,2019
+37,Vols d''accessoires sur véhicules à moteur immatriculés,Vols,1394,2019
+38,Vols simples sur chantier,Vols,195,2019
+39,Vols simples sur exploitations agricoles,Vols,0,2019
+40,Autres vols simples contre des établissements publics ou privés,Vols,449,2019
+41,Autres vols simples contre des particuliers dans  deslocaux privés,Vols,2452,2019
+42,Autres vols simples contre des particuliers dans des locaux ou lieux publics,Vols,3661,2019
+43,Recels,Autres délits,508,2019
+44,Proxénétisme,Proxénétisme,0,2019
+45,Viols sur des majeur(e)s,Viols,136,2019
+46,Viols sur des mineur(e)s,Viols,78,2019
+47,Harcèlements sexuels et autres agressions sexuelles contre des majeur(e)s,Viols,202,2019
+48,Harcèlements sexuels et autres agressions sexuelles contre des mineur(e)s,Viols,130,2019
+49,Atteintes sexuelles,Viols,119,2019
+50,Homicides commis contre enfants de moins de 15 ans,Homicides,0,2019
+51,"Violences, mauvais traitements et abandons d'enfants.",Délits non sexuels contre les mineurs,469,2019
+52,Délits au sujet de la garde des mineurs,Délits non sexuels contre les mineurs,124,2019
+53,Non versement de pension alimentaire,Délits non sexuels contre les mineurs,35,2019
+54,Trafic et revente sans usage de stupéfiants,Trafic et usage de stupéfiants,82,2019
+55,Usage-revente de stupéfiants,Trafic et usage de stupéfiants,274,2019
+56,Usage de stupéfiants,Trafic et usage de stupéfiants,957,2019
+57,Autres infractions à la législation sur les stupéfiants,Trafic et usage de stupéfiants,5,2019
+58,Délits de débits de boissons et infraction à la règlementation sur l'alcool  et le tabac,Trafic et usage de stupéfiants,2,2019
+59,Fraudes alimentaires et infractions à l'hygiène,Fraudes,2,2019
+60,Autres délits contre santé publique et la réglementation des professions médicales,Autres délits,1,2019
+61,Incendies volontaires de biens publics,Incendies volontaires,77,2019
+62,Incendies volontaires de biens privés,Incendies volontaires,424,2019
+63,Attentats à l'explosif contre des biens publics,Attentats à l'explosif,1,2019
+64,Attentats à l'explosif contre des biens privés,Attentats à l'explosif,2,2019
+65,Autres destructions er dégradations de biens publics,Autres délits,359,2019
+66,Autres destructions er dégradations de biens privés,Autres délits,1576,2019
+67,Destructions et dégradations de véhicules privés,Autres délits,1149,2019
+68,Infractions aux conditions générales d'entrée et de séjour des étrangers,Infractions aux conditions d'entrée des étrangers,71,2019
+69,"Aide à l'entrée, à la circulation et au séjour des étrangers",Infractions aux conditions d'entrée des étrangers,1,2019
+70,Autres infractions à la police des étrangers,Infractions aux conditions d'entrée des étrangers,75,2019
+71,Outrages à dépositaires autorité,Autres délits,312,2019
+72,Violences à dépositaires autorité,Port d'armes,453,2019
+73,Port ou détention armes prohibées,Port d'armes,449,2019
+74,Atteintes aux intérêts fondamentaux de la Nation,Autres délits,6,2019
+75,Délits des courses et des jeux,Autres délits,0,2019
+76,Délits interdiction de séjour et de paraître,Autres délits,17,2019
+77,"Destructions, cruautés et autres délits envers les animaux",Délits envers les animaux,12,2019
+78,Atteintes à l'environnement,Atteintes à l'environnement,4,2019
+79,Chasse et pêche,Atteintes à l'environnement,1,2019
+80,Faux documents d'identité,Fraudes,46,2019
+81,Faux documents concernant la circulation des véhicules,Fraudes,10,2019
+82,Autres faux documents administratifs,Fraudes,13,2019
+83,Faux en écriture publique et authentique,Fraudes,5,2019
+84,Autres faux en écriture,Fraudes,44,2019
+85,Fausse monnaie,Fraudes,18,2019
+86,Contrefaçons et fraudes industrielles et commerciales,Fraudes,17,2019
+87,Contrefaçons littéraires et artistique,Fraudes,0,2019
+88,Falsification et usages de chèques volés,Fraudes,260,2019
+89,Falsification et usages de cartes de crédit,Fraudes,1036,2019
+90,Escroqueries et abus de confiance,Autres délits,1708,2019
+91,Infractions à la législation sur les chèques,Fraudes,5,2019
+92,Travail clandestin,Fraudes,25,2019
+93,Emploi d'étranger sans titre de travail,Emploi d'étranger sans titre de travail,0,2019
+94,Marchandage - prêt de main d'oeuvre,Autres délits,0,2019
+95,Index non utilisé,Index non utilisé,0,2019
+96,Index non utilisé,Index non utilisé,0,2019
+97,"Banqueroutes, abus de biens sociaux et autres délits de société",Fraudes,2,2019
+98,Index non utilisé,Index non utilisé,0,2019
+99,Index non utilisé,Index non utilisé,0,2019
+100,"Prix illicittes, publicité fausse et infractions aux règles de la concurrence",Fraudes,3,2019
+101,Achats et ventes sans factures,Fraudes,1,2019
+102,Infractions à l'exercice d'une profession règlementée,Fraudes,7,2019
+103,Infractions au droit de l'urbanisme et de la construction,Infractions au droit de construction,5,2019
+104,Fraudes fiscales,Fraudes,1,2019
+105,Autres délits économiques et financiers,Fraudes,24,2019
+106,Autres délits,Autres délits,1275,2019
+0,Règlements de compte entre malfaireurs,Autres délits,0,2020
+1,Homicides pour voler et à l'occasion de vols,Homicides,0,2020
+2,Homicides pour d'autres motifs,Homicides,7,2020
+3,Tentatives d'homicides pour voler et à l'occasion de vols,Tentatives d'homicide,0,2020
+4,Tentatives homicides pour d'autres motifs,Tentatives d'homicide,15,2020
+5,Coups et blessures volontaires suivis de mort,Homicides,2,2020
+6,Autres coups et blessures volontaires criminels ou correctionnels,Blessures volontaires,2266,2020
+7,Prises d'otages à l'occasion de vols,Prises d'otages,0,2020
+8,Prises d'otages dans un autre but,Prises d'otages,0,2020
+9,Sequestrations,Sequestrations,46,2020
+10,Menaces ou chantages pour extorsion de fonds,Menaces ou chantages,145,2020
+11,Menaces ou chantages dans un autre but,Menaces ou chantages,958,2020
+12,Atteintes à la dignité et à la  personnalité,Harcèlement non sexuel,286,2020
+13,Violations de domicile,Autres délits,149,2020
+14,Vols à main armée contre des établissements financiers,Vols,1,2020
+15,Vols à main armée contre des éts industriels ou commerciaux,Vols,9,2020
+16,Vols à main armée contre des entreprises de transports de fonds,Vols,0,2020
+17,Vols à main armée contre des particuliers à leur domicile,Vols,2,2020
+18,Autres vols à main armée,Vols,14,2020
+19,"Vols avec armes blanches contre des établissements financiers,commerciaux ou industriels",Vols,2,2020
+20,Vols avec armes blanches contre des particuliers à leur domicile,Vols,11,2020
+21,Autres vols avec armes blanches,Vols,98,2020
+22,"Vols violents sans arme contre des établissements financiers,commerciaux ou industriels",Vols,9,2020
+23,Vols violents sans arme contre des particuliers à leur domicile,Vols,24,2020
+24,Vols violents sans arme contre des femmes sur voie publique ou autre lieu public,Vols,265,2020
+25,Vols violents sans arme contre d'autres victimes,Vols,702,2020
+26,Cambriolages de locaux d'habitations principales,Cambriolages,3160,2020
+27,Cambriolages de résidences secondaires,Cambriolages,110,2020
+28,"Cambriolages de  locaux industriels, commerciaux ou financiers",Cambriolages,1200,2020
+29,Cambriolages d'autres lieux,Cambriolages,753,2020
+30,Vols avec entrée par ruse en tous lieux,Vols,77,2020
+31,Vols à la tire,Vols,2070,2020
+32,Vols à l'étalage,Vols,474,2020
+33,Vols de véhicules de transport avec frêt,Vols,0,2020
+34,Vols d'automobiles,Vols,786,2020
+35,Vols de véhicules motorisés à 2 roues,Vols,1006,2020
+36,Vols à la roulotte,Vols,4883,2020
+37,Vols d''accessoires sur véhicules à moteur immatriculés,Vols,1121,2020
+38,Vols simples sur chantier,Vols,126,2020
+39,Vols simples sur exploitations agricoles,Vols,1,2020
+40,Autres vols simples contre des établissements publics ou privés,Vols,405,2020
+41,Autres vols simples contre des particuliers dans  deslocaux privés,Vols,2210,2020
+42,Autres vols simples contre des particuliers dans des locaux ou lieux publics,Vols,2509,2020
+43,Recels,Autres délits,456,2020
+44,Proxénétisme,Proxénétisme,3,2020
+45,Viols sur des majeur(e)s,Viols,118,2020
+46,Viols sur des mineur(e)s,Viols,93,2020
+47,Harcèlements sexuels et autres agressions sexuelles contre des majeur(e)s,Viols,187,2020
+48,Harcèlements sexuels et autres agressions sexuelles contre des mineur(e)s,Viols,151,2020
+49,Atteintes sexuelles,Viols,127,2020
+50,Homicides commis contre enfants de moins de 15 ans,Homicides,0,2020
+51,"Violences, mauvais traitements et abandons d'enfants.",Délits non sexuels contre les mineurs,357,2020
+52,Délits au sujet de la garde des mineurs,Délits non sexuels contre les mineurs,152,2020
+53,Non versement de pension alimentaire,Délits non sexuels contre les mineurs,29,2020
+54,Trafic et revente sans usage de stupéfiants,Trafic et usage de stupéfiants,83,2020
+55,Usage-revente de stupéfiants,Trafic et usage de stupéfiants,175,2020
+56,Usage de stupéfiants,Trafic et usage de stupéfiants,801,2020
+57,Autres infractions à la législation sur les stupéfiants,Trafic et usage de stupéfiants,5,2020
+58,Délits de débits de boissons et infraction à la règlementation sur l'alcool  et le tabac,Trafic et usage de stupéfiants,2,2020
+59,Fraudes alimentaires et infractions à l'hygiène,Fraudes,0,2020
+60,Autres délits contre santé publique et la réglementation des professions médicales,Autres délits,55,2020
+61,Incendies volontaires de biens publics,Incendies volontaires,52,2020
+62,Incendies volontaires de biens privés,Incendies volontaires,309,2020
+63,Attentats à l'explosif contre des biens publics,Attentats à l'explosif,0,2020
+64,Attentats à l'explosif contre des biens privés,Attentats à l'explosif,0,2020
+65,Autres destructions er dégradations de biens publics,Autres délits,272,2020
+66,Autres destructions er dégradations de biens privés,Autres délits,1274,2020
+67,Destructions et dégradations de véhicules privés,Autres délits,916,2020
+68,Infractions aux conditions générales d'entrée et de séjour des étrangers,Infractions aux conditions d'entrée des étrangers,63,2020
+69,"Aide à l'entrée, à la circulation et au séjour des étrangers",Infractions aux conditions d'entrée des étrangers,2,2020
+70,Autres infractions à la police des étrangers,Infractions aux conditions d'entrée des étrangers,96,2020
+71,Outrages à dépositaires autorité,Autres délits,287,2020
+72,Violences à dépositaires autorité,Port d'armes,377,2020
+73,Port ou détention armes prohibées,Port d'armes,332,2020
+74,Atteintes aux intérêts fondamentaux de la Nation,Autres délits,3,2020
+75,Délits des courses et des jeux,Autres délits,0,2020
+76,Délits interdiction de séjour et de paraître,Autres délits,41,2020
+77,"Destructions, cruautés et autres délits envers les animaux",Délits envers les animaux,8,2020
+78,Atteintes à l'environnement,Atteintes à l'environnement,4,2020
+79,Chasse et pêche,Atteintes à l'environnement,0,2020
+80,Faux documents d'identité,Fraudes,32,2020
+81,Faux documents concernant la circulation des véhicules,Fraudes,12,2020
+82,Autres faux documents administratifs,Fraudes,11,2020
+83,Faux en écriture publique et authentique,Fraudes,2,2020
+84,Autres faux en écriture,Fraudes,31,2020
+85,Fausse monnaie,Fraudes,21,2020
+86,Contrefaçons et fraudes industrielles et commerciales,Fraudes,0,2020
+87,Contrefaçons littéraires et artistique,Fraudes,0,2020
+88,Falsification et usages de chèques volés,Fraudes,157,2020
+89,Falsification et usages de cartes de crédit,Fraudes,1017,2020
+90,Escroqueries et abus de confiance,Autres délits,1734,2020
+91,Infractions à la législation sur les chèques,Fraudes,3,2020
+92,Travail clandestin,Fraudes,28,2020
+93,Emploi d'étranger sans titre de travail,Emploi d'étranger sans titre de travail,2,2020
+94,Marchandage - prêt de main d'oeuvre,Autres délits,0,2020
+95,Index non utilisé,Index non utilisé,0,2020
+96,Index non utilisé,Index non utilisé,0,2020
+97,"Banqueroutes, abus de biens sociaux et autres délits de société",Fraudes,4,2020
+98,Index non utilisé,Index non utilisé,0,2020
+99,Index non utilisé,Index non utilisé,0,2020
+100,"Prix illicittes, publicité fausse et infractions aux règles de la concurrence",Fraudes,6,2020
+101,Achats et ventes sans factures,Fraudes,0,2020
+102,Infractions à l'exercice d'une profession règlementée,Fraudes,2,2020
+103,Infractions au droit de l'urbanisme et de la construction,Infractions au droit de construction,1,2020
+104,Fraudes fiscales,Fraudes,2,2020
+105,Autres délits économiques et financiers,Fraudes,31,2020
+106,Autres délits,Autres délits,1083,2020
